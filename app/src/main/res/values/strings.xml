@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">DropdownButtonCategory</string>
+    <string-array name="list_pembuatan">
+        <item>Pembuatan Bangunan</item>
+        <item>Pembuatan Halaman</item>
+        <item>Pembuatan Kanopi</item>
+        <item>Pembuatan Pagar</item>
+    </string-array>
+</resources>
